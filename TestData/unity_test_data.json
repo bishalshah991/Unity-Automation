@@ -1,0 +1,24 @@
+[
+  {
+    "FhdUsername": "bishal+fhd@benekiva.com",
+    "CsrUsername": "bishal+csr@benekiva.com",
+    "UnityPassword": "Amandofidel@7819",
+    "Policy": "0770051087",
+    "InputText": "Test Input",
+    "InputNumber": "9874563210",
+    "DOB": "08/01/2023",
+    "value_drop_down": "Accident",
+    "Bill_amount": "444",
+    "LicNum": "LIC444",
+    "FirstName" : "Test Name",
+    "Address1" : "Address1",
+    "Address2" : "Address2",
+    "City" : "New York",
+    "State" : "STA",
+    "PostCode": "78781",
+    "Suffix": "Test",
+    "BusinessEntity": "Test Business",
+    "Email": "bishal@benekiva.com"
+
+  }
+]

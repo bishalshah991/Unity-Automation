@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="UNITY Test on Chrome">
+        <parameter name="browser" value="${browser_name}"/>
+        <parameter name="url" value="${url_name}"></parameter>
+        <parameter name="username" value="${user_name}"></parameter>
+        <parameter name="password" value="${password_name}"></parameter>
+        <parameter name="policy" value="${policy_number}"></parameter>
+        <parameter name="author" value="${author_name}"></parameter>
+        <classes>
+            <class name="testCase.Uf_csr_End_to_End_test"></class>
+        </classes>
+    </test>
+</suite>
